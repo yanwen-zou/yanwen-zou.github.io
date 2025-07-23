@@ -16,10 +16,12 @@ I work closely with [Prof.Bo Zhao](https://www.bozhao.me/), and also have precio
 I spent most of time doing these:
 ======
 
-### 🧠 Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding
+### 🧠 [Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding](https://mint-sjtu.github.io/Evo-VLA.io/)
 Our work introduces a plug-and-play module that implicitly injects 3D geometry features into VLA models by leveraging an off the-shelf visual geometry foundation models. 
 
 We design five spatially challenging tasks that require precise spatial understanding ability to validate effectiveness of our method. Extensive evaluations show that our method significantly improves the performance of state-of-the-art VLA models across diverse scenarios
+
+<img src="/images/evo_0.png" width="50%">
 
 ### 🦾 Bimanual Exoskeleton for Robotics Data Collection
 
