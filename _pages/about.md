@@ -7,14 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Master student from  [The Department of Mechanical Engineering](https://me.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). Robotics bimanual manipulation, data collection interface are two fields I'm working on. I'm fortunate to cooperate with PhDs and postdocs in [MSC Lab](https://msc.berkeley.edu/) led by [Prof.Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I'm an incoming PhD student of [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof.Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en). My research will focus on embodiment transfer and general robotics data. I got MEng degree from  [The Department of Mechanical Engineering](https://me.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I was fortunate to cooperate with PhDs and postdocs in [MSC Lab](https://msc.berkeley.edu/) led by [Prof.Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-Before my journey at Berkeley, I received my Bachelor's degree from [School of Mechanical and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I was pursuing a Master's degree in Finance from [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
+Before my journey at Berkeley, I received my Bachelor's degree from [School of Mechanical and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I studied Finance at [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
 
-I also interned in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/), advised by Prof.Huixu Dong, and robotics startup [Maxinsights](https://www.maxinsights.ai/).
+I work closely with [Prof.Bo Zhao](https://www.bozhao.me/), and also have precious experience in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/), advised by [Prof.Huixu Dong](https://grasplab2022.github.io/), and robotics startup [Maxinsights](https://www.maxinsights.ai/).
 
 I spent most of time doing these:
 ======
+
+### 🧠 Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding
+Our work introduces a plug-and-play module that implicitly injects 3D geometry features into VLA models by leveraging an off the-shelf visual geometry foundation models. 
+
+We design five spatially challenging tasks that require precise spatial understanding ability to validate effectiveness of our method. Extensive evaluations show that our method significantly improves the performance of state-of-the-art VLA models across diverse scenarios
 
 ### 🦾 Bimanual Exoskeleton for Robotics Data Collection
 
