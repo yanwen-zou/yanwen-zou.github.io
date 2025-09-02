@@ -11,7 +11,7 @@ I'm an incoming PhD student of [Shanghai Jiaotong University](https://www.sjtu.e
 
 Before my journey at Berkeley, I received my Bachelor's degree from [School of Mechanical and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I studied Finance at [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
 
-I work closely with [Prof.Bo Zhao](https://www.bozhao.me/), and also have precious experience in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/), advised by [Prof.Huixu Dong](https://grasplab2022.github.io/), and robotics startup [Maxinsights](https://www.maxinsights.ai/).
+I work closely with [Prof.Chuan Wen](https://alvinwen428.github.io/), [Prof.Bo Zhao](https://www.bozhao.me/), and also have precious experience in [Grasp Lab at Zhejiang University](https://grasplab2022.github.io/), advised by [Prof.Huixu Dong](https://grasplab2022.github.io/), and robotics startup [Maxinsights](https://www.maxinsights.ai/).
 
 I spent most of time doing these:
 ======
