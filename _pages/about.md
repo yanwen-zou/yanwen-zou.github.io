@@ -19,7 +19,11 @@ I spent most of time doing these:
 ### [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm)
 LeRobot Anything is a low-cost, universal, leader-follower teleoperation system for any commercial robot arms and humanoid robots(coming soon) through four interchangeable hardware configurations. Designed for researchers, educators, and robotics enthusiasts, it provides a standardized interface for diverse robot platforms. This project focus on extending the Lerobot to control any real robot in both real scene and simulation.
 
-<img src="/images/evo_0.png" width="50%">
+<p align="center">
+  <img src="/images/Xarm.gif" width="30%" alt="xArm Demo" />
+  <img src="/images/Dobot.gif" width="30%" alt="Dobot Demo" />
+  <img src="/images/Arx.gif" width="30%" alt="ARX Demo" />
+</p>
 
 ### [Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding](https://mint-sjtu.github.io/Evo-VLA.io/)
 Our work introduces a plug-and-play module that implicitly injects 3D geometry features into VLA models by leveraging an off the-shelf visual geometry foundation models. 
