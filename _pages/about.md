@@ -17,7 +17,7 @@ I spent most of time doing these:
 ======
 
 ### [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm)
-U-Arm is a low-cost, universal, leader-follower teleoperation system for any commercial robot arms and humanoid robots(coming soon) through four interchangeable hardware configurations. Designed for researchers, educators, and robotics enthusiasts, it provides a standardized interface for diverse robot platforms. This project focus on extending the Lerobot to control any real robot in both real scene and simulation.
+U-Arm is a low-cost, universal, leader-follower teleoperation system for any commercial robot arms through 3 hardware configurations. Designed for researchers, educators, and robotics enthusiasts, it provides a standardized interface for diverse robot platforms. This project focus on extending the Lerobot to control any real robot in both real scene and simulation.
 
 <p align="center">
   <img src="/images/Xarm.gif" width="30%" alt="xArm Demo" />
