@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming PhD student of [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof.Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en). My research will focus on embodiment transfer and general robotics data. I got MEng degree from  [The Department of Mechanical Engineering](https://me.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I was fortunate to cooperate with PhDs and postdocs in [MSC Lab](https://msc.berkeley.edu/) led by [Prof.Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I'm a Ph.D. student of [Shanghai Jiaotong University](https://www.sjtu.edu.cn/), advised by [Prof.Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en). My research will focus on embodiment transfer and general robotics data. I got MEng degree from  [The Department of Mechanical Engineering](https://me.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I was fortunate to cooperate with PhDs and postdocs in [MSC Lab](https://msc.berkeley.edu/) led by [Prof.Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
 Before my journey at Berkeley, I received my Bachelor's degree from [School of Mechanical and Engineering](https://me.sjtu.edu.cn/), Qian Xuesen Class at [Shanghai Jiaotong University](https://www.sjtu.edu.cn/). After graduation, I studied Finance at [SAIF](https://www.saif.sjtu.edu.cn/) at Shanghai Jiaotong University and then dropped out.
 
@@ -16,21 +16,26 @@ I work closely with [Prof.Chuan Wen](https://alvinwen428.github.io/), [Prof.Bo Z
 I spent most of time doing these:
 ======
 
-### 🧠 [Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding](https://mint-sjtu.github.io/Evo-VLA.io/)
+### [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm)
+LeRobot Anything is a low-cost, universal, leader-follower teleoperation system for any commercial robot arms and humanoid robots(coming soon) through four interchangeable hardware configurations. Designed for researchers, educators, and robotics enthusiasts, it provides a standardized interface for diverse robot platforms. This project focus on extending the Lerobot to control any real robot in both real scene and simulation.
+
+<img src="/images/evo_0.png" width="50%">
+
+### [Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding](https://mint-sjtu.github.io/Evo-VLA.io/)
 Our work introduces a plug-and-play module that implicitly injects 3D geometry features into VLA models by leveraging an off the-shelf visual geometry foundation models. 
 
 We design five spatially challenging tasks that require precise spatial understanding ability to validate effectiveness of our method. Extensive evaluations show that our method significantly improves the performance of state-of-the-art VLA models across diverse scenarios
 
 <img src="/images/evo_0.png" width="50%">
 
-### 🦾 Bimanual Exoskeleton for Robotics Data Collection
+### Bimanual Exoskeleton for Robotics Data Collection
 
 We made cool prototypes, while there are no pics here for confidentiality reasons.
 
 -----
 
 
-### 🤖 Tendon-driven Dexterous Hand and Wearable Finger
+### Tendon-driven Dexterous Hand and Wearable Finger
 
 Each finger has flexion and lateral DoF. Torsion springs are incorporated into each joint. But the current configuration has limited payload.
 
