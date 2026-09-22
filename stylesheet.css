@@ -100,8 +100,7 @@ a:focus-visible {
   max-width: 760px;
 }
 
-.kicker,
-.section-index {
+.kicker {
   color: var(--muted);
   font-size: 13px;
   font-variant-numeric: tabular-nums;
@@ -194,13 +193,6 @@ a:focus-visible {
 
 .content-section + .content-section {
   margin-top: 72px;
-}
-
-.section-heading {
-  display: grid;
-  grid-template-columns: 72px minmax(0, 1fr);
-  gap: 24px;
-  align-items: start;
 }
 
 .section-heading h2 {
@@ -307,15 +299,22 @@ a:focus-visible {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 24px;
+  align-items: start;
   margin-top: 38px;
 }
 
+.companion {
+  min-width: 0;
+}
+
 .companion img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
+  width: auto;
+  height: auto;
   border: 1px solid var(--line);
   border-radius: 0;
-  object-fit: cover;
+  background: var(--media);
+  object-fit: contain;
+  object-position: center;
 }
 
 .companion figcaption {
@@ -405,11 +404,6 @@ a:focus-visible {
 
   .content-section + .content-section {
     margin-top: 58px;
-  }
-
-  .section-heading {
-    grid-template-columns: 38px minmax(0, 1fr);
-    gap: 14px;
   }
 
   .section-heading h2 {
